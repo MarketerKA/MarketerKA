@@ -5,18 +5,9 @@
 ### 💻 Frontend Developer | React, Redux, TypeScript
 
 <div align="center">
-  <a href="https://t.me/Marketer7">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40" height="40" alt="Telegram"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:advertinno@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40" alt="Email"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/MarketerKA">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" width="40" height="40" alt="GitHub"/>
-  </a>&nbsp;&nbsp;
-  <a href="tel:+79520294977">
-    <img src="https://img.icons8.com/color/48/000000/phone.png" width="40" height="40" alt="Phone"/>
-  </a>
+  
+[![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/Marketer7)[![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:advertinno@gmail.com)[![GitHub](https://img.icons8.com/fluency/48/000000/github.png)](https://github.com/MarketerKA)[![Phone](https://img.icons8.com/color/48/000000/phone.png)](tel:+79520294977)
+
 </div>
 
 </div>
@@ -37,7 +28,7 @@ Front-end разработчик с 2+ годами опыта коммерче�
 
 ## 💼 Опыт работы
 
-**React Developer** – *Apusher* (Сентябрь 2024 – настоящее время)
+**React Developer** – *Apusher* (Октябрь 2024 – настоящее время)
 - Разработка компонентов на React
 - Интеграция с бэкендом через Redux
 - Стилизация с использованием SCSS
