@@ -39,30 +39,9 @@ Front-end разработчик с 2+ годами опыта коммерче�
 
 ## 🛠️ Технический стек
 <div align="center">
-  <a href="#" title="React">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40" alt="React"/>
-  </a>&nbsp;&nbsp;
-  <a href="#" title="Redux">
-    <img src="https://img.icons8.com/color/48/000000/redux.png" width="40" height="40" alt="Redux"/>
-  </a>&nbsp;&nbsp;
-  <a href="#" title="TypeScript">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40" alt="TypeScript"/>
-  </a>&nbsp;&nbsp;
-  <a href="#" title="JavaScript">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt="JavaScript"/>
-  </a>&nbsp;&nbsp;
-  <a href="#" title="HTML5">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40" alt="HTML5"/>
-  </a>&nbsp;&nbsp;
-  <a href="#" title="CSS3">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" alt="CSS3"/>
-  </a>&nbsp;&nbsp;
-  <a href="#" title="Sass">
-    <img src="https://img.icons8.com/color/48/000000/sass.png" width="40" height="40" alt="Sass"/>
-  </a>&nbsp;&nbsp;
-  <a href="#" title="Git">
-    <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40" alt="Git"/>
-  </a>
+  
+[![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)[![Redux](https://img.icons8.com/color/48/000000/redux.png)](https://redux.js.org/)[![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/)[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)[![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)[![Sass](https://img.icons8.com/color/48/000000/sass.png)](https://sass-lang.com/)[![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
+
 </div>
 
 ## 🎓 Образование
