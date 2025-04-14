@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/Marketer7)[![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:advertinno@gmail.com)[![GitHub](https://img.icons8.com/fluency/48/000000/github.png)](https://github.com/MarketerKA)[![Phone](https://img.icons8.com/color/48/000000/phone.png)](tel:+79520294977)
+[![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/Marketer7)[![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:advertinno@gmail.com)
 
 </div>
 
