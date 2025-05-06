@@ -21,6 +21,7 @@ Front-end разработчик с 2+ годами опыта коммерче�
 | Проект | Описание | Демо | Код |
 |:------:|:---------|:----:|:---:|
 | **🏗️ ЖКХ Трекер** | Хакатонное приложение для работников и менеджеров ЖК (отслеживание работы мусоровозов) | [Демо](https://marketerka.github.io/front-end-tula-hackaton/) | [GitHub](https://github.com/MarketerKA/front-end-tula-hackaton) |
+| **🤖 AI AM AM BUILDER** | МТС хакатон - формирование JSON по запросу пользователя (бекенд отключен) | [Демо](https://ai-am-am-builder.vercel.app/) | [GitHub](https://github.com/MarketerKA/AI_AM_AM_BUILDER) |
 | **🎓 LAN-frontend** | Приложение для студентов (дипломный проект) | [Демо](https://capstoun.vercel.app/) | [GitHub](https://github.com/IU-Capstone-Project-2024/LAN-frontend) |
 | **📝 To-Do List** | Планировщик задач | [Демо](https://MarketerKA.github.io/to-do-list/) | [GitHub](https://github.com/MarketerKA/to-do-list) |
 | **🎰 Слотики** | Интерактивная рулетка | [Демо](https://marketerka.github.io/slotiki/) | [GitHub](https://github.com/MarketerKA/slotiki) |
