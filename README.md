@@ -13,14 +13,8 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p> -->
 
-<div>
-  <a href="https://t.me/Marketer7">
-    <img src="https://img.icons8.com/color/36/000000/telegram-app.png" alt="Telegram" />
-  </a>
-  <a href="mailto:advertinno@gmail.com">
-    <img src="https://img.icons8.com/color/36/000000/gmail-new.png" alt="Email" />
-  </a>
-</div>
+[![Telegram](https://img.icons8.com/color/36/000000/telegram-app.png)](https://t.me/Marketer7)
+[![Email](https://img.icons8.com/color/36/000000/gmail-new.png)](mailto:advertinno@gmail.com)
 
 </div>
 
