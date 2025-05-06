@@ -1,20 +1,35 @@
 <div align="center">
   
-# ✨ Кирилл Архипов ✨
+# Hello👋
 
-### 💻 Frontend Developer | React, Redux, TypeScript
+### 💻 Frontend Developer | Solidity Developer 💎
 
-<div align="center">
-  
-[![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/Marketer7)[![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:advertinno@gmail.com)
+<!-- <p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p> -->
 
+<div>
+  <a href="https://t.me/Marketer7">
+    <img src="https://img.icons8.com/color/36/000000/telegram-app.png" alt="Telegram" />
+  </a>
+  <a href="mailto:advertinno@gmail.com">
+    <img src="https://img.icons8.com/color/36/000000/gmail-new.png" alt="Email" />
+  </a>
 </div>
 
 </div>
 
 ## 📊 О себе
 
-Front-end разработчик с 2+ годами опыта коммерческой разработки. Студент Университета Иннополис (бакалавриат, Информатика и вычислительная техника). Участвовал в хакатонах, есть призовое место. Создаю адаптивные пользовательские интерфейсы и интегрирую их с API.
+- 💼 Front-end разработчик с 2+ годами опыта
+- 🎓 Студент Университета Иннополис (последний курс)
+- 🏆 Призер хакатонов
+- 🖥️ Создаю адаптивные UI и интегрирую с API (React + Redux)
 
 ## 🔍 Проекты
 
