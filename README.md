@@ -2,7 +2,7 @@
   
 # Hello👋
 
-### 💻 Frontend Developer | Solidity Developer 💎
+### 💻 Solidity Researcher | Frontend Developer 💎
 
 <!-- <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -18,62 +18,73 @@
 
 </div>
 
-## 📊 О себе
+## 📊 About Me
 
-- 💼 Front-end разработчик с 2+ годами опыта
-- 🎓 Студент Университета Иннополис (последний курс)
-- 🏆 Призер хакатонов
-- 🖥️ Создаю адаптивные UI и интегрирую с API (React + Redux)
+- 🔍 Smart Contract Security Researcher (HackenProof & Code4rena Warden)
+- 💼 Front-end developer with 2+ years of experience
+- 🎓 Innopolis University student (final year)
+- 🏆 Hackathon prize winner
+- 🖥️ Creating responsive UIs and integrating with APIs (React + Redux)
+- 🤖 LLM-based code analysis tool developer
 
-## 🔍 Проекты
+## 🔍 Projects
 
-| Проект | Описание | Демо | Код |
+| Project | Description | Demo | Code |
 |:------:|:---------|:----:|:---:|
-| **🏗️ ЖКХ Трекер** | Хакатонное приложение для работников и менеджеров ЖК (отслеживание работы мусоровозов) | [Демо](https://marketerka.github.io/front-end-tula-hackaton/) | [GitHub](https://github.com/MarketerKA/front-end-tula-hackaton) |
-| **🛍️ ArteWear** | E-commerce платформа с админ-панелью и корзиной (React + TypeScript, роль: тимлид фронтенда) | [Демо](https://artewear.ru/) | [GitHub](https://github.com/MarketerKA/artewear) |
-| **🤖 AI AM AM BUILDER** | МТС хакатон - формирование JSON по запросу пользователя (бекенд отключен) | [Демо](https://ai-am-am-builder.vercel.app/) | [GitHub](https://github.com/MarketerKA/AI_AM_AM_BUILDER) |
-| **🎓 LAN-frontend** | Приложение для студентов (дипломный проект) | [Демо](https://capstoun.vercel.app/) | [GitHub](https://github.com/IU-Capstone-Project-2024/LAN-frontend) |
-| **📝 To-Do List** | Планировщик задач | [Демо](https://MarketerKA.github.io/to-do-list/) | [GitHub](https://github.com/MarketerKA/to-do-list) |
-| **🎰 Слотики** | Интерактивная рулетка | [Демо](https://marketerka.github.io/slotiki/) | [GitHub](https://github.com/MarketerKA/slotiki) |
-| **📎 shorterApi** | API для сокращения ссылок с веб-интерфейсом | - | [GitHub](https://github.com/MarketerKA/shorterApi) |
+| **🏗️ Housing Services Tracker** | Hackathon app for housing workers and managers (tracking garbage truck operations) | [Demo](https://marketerka.github.io/front-end-tula-hackaton/) | [GitHub](https://github.com/MarketerKA/front-end-tula-hackaton) |
+| **🛍️ ArteWear** | E-commerce platform with admin panel and shopping cart (React + TypeScript, role: frontend team lead) | [Demo](https://artewear.ru/) | [GitHub](https://github.com/MarketerKA/artewear) |
+| **🤖 AI AM AM BUILDER** | MTS hackathon - JSON generation based on user requests (backend disabled) | [Demo](https://ai-am-am-builder.vercel.app/) | [GitHub](https://github.com/MarketerKA/AI_AM_AM_BUILDER) |
+| **🎓 LAN-frontend** | Student application (diploma project) | [Demo](https://capstoun.vercel.app/) | [GitHub](https://github.com/IU-Capstone-Project-2024/LAN-frontend) |
+| **📝 To-Do List** | Task planner | [Demo](https://MarketerKA.github.io/to-do-list/) | [GitHub](https://github.com/MarketerKA/to-do-list) |
+| **🎰 Slot Machine** | Interactive slot machine | [Demo](https://marketerka.github.io/slotiki/) | [GitHub](https://github.com/MarketerKA/slotiki) |
+| **📎 shorterApi** | URL shortening API with web interface | - | [GitHub](https://github.com/MarketerKA/shorterApi) |
 
-## 💼 Опыт работы
+## 💼 Work Experience
 
-**React Developer** – *Apusher* (Октябрь 2024 – Апрель, рекомендательное письмо)
-- Разработка компонентов на React
-- Интеграция с бэкендом через Redux
-- Стилизация с использованием SCSS
+**Smart Contract Security Researcher** – *HackenProof & Code4rena* (July 2025 – Present)
+- Conducted security audits with multiple submissions
+- Identified vulnerabilities: 1 medium-severity, 1 low-severity, 1 B-grade, 5 informational findings
+- Developed expertise in smart contract vulnerability analysis
 
-**Frontend Developer** – *Фактор Продаж* (Октябрь 2023 – Август 2024)
-- Верстка образовательных курсов (7 проектов)
-- JavaScript и стилизация
+**LLM-Based Code Analysis Tool Developer** – *Research Project* (September 2025 – Present)
+- Created LLM-powered tool for automated smart contract code analysis
+- Research on integrating large language models into security auditing workflows
 
-## 🛠️ Технический стек
+**React Developer** – *Apusher* (October 2024 – April 2025, recommendation letter)
+- React component development
+- Backend integration via Redux
+- Styling with SCSS
+
+**Frontend Developer** – *Factor Sales* (October 2023 – August 2024)
+- Educational course layouts (7 projects)
+- JavaScript and styling
+
+## 🛠️ Tech Stack
 <div align="center">
   
-[![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)[![Redux](https://img.icons8.com/color/48/000000/redux.png)](https://redux.js.org/)[![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/)[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)[![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)[![Sass](https://img.icons8.com/color/48/000000/sass.png)](https://sass-lang.com/)[![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)[![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)[![Redux](https://img.icons8.com/color/48/000000/redux.png)](https://redux.js.org/)[![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/)[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)[![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)[![Sass](https://img.icons8.com/color/48/000000/sass.png)](https://sass-lang.com/)[![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
 
 </div>
 
-## 🎓 Образование
+## 🎓 Education
 
-**Университет Иннополис** (2022 – настоящее время)  
-Бакалавриат, Информатика и вычислительная техника
+**Innopolis University** (2022 – present)  
+Bachelor's degree, Computer Science and Engineering
 
-## 📱 Контакты
+## 📱 Contact
 
-- **Телефон:** +7 (952) 029-49-77
+- **Phone:** +7 (952) 029-49-77
 - **Email:** advertinno@gmail.com
 - **Telegram:** [@Marketer7](https://t.me/Marketer7)
 - **GitHub:** [MarketerKA](https://github.com/MarketerKA)
-- **Город:** Иннополис
+- **Location:** Innopolis
 
 <div align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/MarketerKA?style=flat-square&logo=github&labelColor=black&color=1DA1F2">
   <img src="https://komarev.com/ghpvc/?username=MarketerKA&color=blueviolet&style=flat-square" alt="profile views" />
 </div>
 
-<!-- Анимированная волна внизу README -->
+<!-- Animated wave at the bottom of README -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 </div>
