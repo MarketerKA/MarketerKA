@@ -37,7 +37,7 @@
 
 **Smart Contract Security Researcher** – *HackenProof, Code4rena & Sherlock* (July 2025 – Present)
 - Conducted security audits on HackenProof, Sherlock, and Code4rena platforms with multiple submissions
-- Identified 2 high, 3 medium, 1 low, 1 A-grade issue, 1 B-grade issue, and 6 informational findings
+- Identified 2 high, 3 medium, 1 low, 1 A-grade issue, 1 B-grade issue, and 8 informational findings
 
 **LLM-Based Code Analysis Tool Developer** – *Research Project* (September 2025 – Present)
 - Created LLM-powered tool for automated smart contract code analysis
