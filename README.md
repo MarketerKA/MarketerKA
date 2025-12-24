@@ -21,12 +21,14 @@
 ## 📊 About Me
 
 - Smart Contract Security Researcher (HackenProof, Code4rena & Sherlock Warden)
+- [Top-60 on HackenProof](https://hackenproof.com/hackers/maketer) (TOP 100 ALL-TIME RANKING)
 - Innopolis University student (final year)
 
 ## 🔍 Audit Contests
 
 | # | Contest | Findings | Rank |
 |:-:|:--------|:--------:|:----:|
+| 6 | [Rain](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest) | 3C, 1H, 4M, 2L | 5 |
 | 5 | IndexFun | 1M | 15 |
 | 4 | [OpenEden](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest) | 2H, 1M | 🥉 3 |
 | 3 | [Covenant](https://code4rena.com/audits/2025-10-covenant) | qa_A | - |
@@ -37,7 +39,7 @@
 
 **Smart Contract Security Researcher** – *HackenProof, Code4rena & Sherlock* (July 2025 – Present)
 - Conducted security audits on HackenProof, Sherlock, and Code4rena platforms with multiple submissions
-- Identified 2 high, 3 medium, 1 low, 1 A-grade issue, 1 B-grade issue, and 8 informational findings
+- Identified 3 critical, 3 high, 7 medium, 3 low, 1 A-grade issue, 1 B-grade issue, and 8 informational findings
 
 **LLM-Based Code Analysis Tool Developer** – *Research Project* (September 2025 – Present)
 - Created LLM-powered tool for automated smart contract code analysis
