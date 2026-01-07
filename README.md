@@ -28,6 +28,7 @@
 
 | # | Contest | Findings | Rank |
 |:-:|:--------|:--------:|:----:|
+| 7 | [Reliq](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest) | 1H, 1M, 1L | 16 |
 | 6 | [Rain](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest) | 3C, 1H, 4M, 2L | 5 |
 | 5 | IndexFun | 1M | 15 |
 | 4 | [OpenEden](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest) | 2H, 1M | 🥉 3 |
@@ -39,7 +40,7 @@
 
 **Smart Contract Security Researcher** – *HackenProof, Code4rena & Sherlock* (July 2025 – Present)
 - Conducted security audits on HackenProof, Sherlock, and Code4rena platforms with multiple submissions
-- Identified 3 critical, 3 high, 7 medium, 3 low, 1 A-grade issue, 1 B-grade issue, and 8 informational findings
+- Identified 3 critical, 4 high, 8 medium, 4 low, 1 A-grade issue, 1 B-grade issue, and 8 informational findings
 
 **LLM-Based Code Analysis Tool Developer** – *Research Project* (September 2025 – Present)
 - Created LLM-powered tool for automated smart contract code analysis
