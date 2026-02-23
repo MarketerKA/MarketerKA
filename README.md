@@ -13,8 +13,8 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p> -->
 
-[![Telegram](https://img.icons8.com/color/36/000000/telegram-app.png)](https://t.me/Marketer7)
-[![Email](https://img.icons8.com/color/36/000000/gmail-new.png)](mailto:karhipov606@gmail.com)
+[![Telegram](https://img.icons8.com/color/36/000000/telegram-app.png)](https://t.me/makamert)
+[![Email](https://img.icons8.com/color/36/000000/gmail-new.png)](mailto:advertinno@gmail.com)
 
 </div>
 
@@ -67,14 +67,6 @@
 
 **Innopolis University** (2022 – present)  
 Bachelor's degree, Computer Science and Engineering
-
-## 📱 Contact
-
-- **Phone:** +7 (952) 029-49-77
-- **Email:** karhipov606@gmail.com
-- **Telegram:** [@Marketer7](https://t.me/Marketer7)
-- **GitHub:** [MarketerKA](https://github.com/MarketerKA)
-- **Location:** Innopolis
 
 <div align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/MarketerKA?style=flat-square&logo=github&labelColor=black&color=1DA1F2">
