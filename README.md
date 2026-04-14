@@ -28,7 +28,7 @@
 
 | # | Contest | Findings | Rank |
 |:-:|:--------|:--------:|:----:|
-| 7 | [Reliq](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest) | 1H, 1M, 1L | 16 |
+| 7 | [Reliq](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest) | 1H, 1M, 1L | 🥉 3 |
 | 6 | [Rain](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest) | 3C, 1H, 4M, 2L | 5 |
 | 5 | IndexFun | 1M | 15 |
 | 4 | [OpenEden](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest) | 2H, 1M | 🥉 3 |
