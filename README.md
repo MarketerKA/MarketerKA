@@ -14,33 +14,41 @@
 </p> -->
 
 [![Telegram](https://img.icons8.com/color/36/000000/telegram-app.png)](https://t.me/makamert)
+[![X](https://img.icons8.com/color/36/000000/twitterx--v1.png)](https://x.com/keterka)
 [![Email](https://img.icons8.com/color/36/000000/gmail-new.png)](mailto:advertinno@gmail.com)
 
 </div>
 
 ## 📊 About Me
 
-- Smart Contract Security Researcher (HackenProof, Code4rena & Sherlock Warden)
+- Smart Contract Security Researcher (HackenProof, Code4rena, Cantina & Sherlock Warden)
 - [Top-60 on HackenProof](https://hackenproof.com/hackers/maketer) (TOP 100 ALL-TIME RANKING)
 - Innopolis University student (final year)
 
 ## 🔍 Audit Contests
 
-| # | Contest | Findings | Rank |
-|:-:|:--------|:--------:|:----:|
-| 7 | [Reliq](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest) | 1H, 1M, 1L | 🥉 3 |
-| 6 | [Rain](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest) | 3C, 1H, 4M, 2L | 5 |
-| 5 | IndexFun | 1M | 15 |
-| 4 | [OpenEden](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest) | 2H, 1M | 🥉 3 |
-| 3 | [Covenant](https://code4rena.com/audits/2025-10-covenant) | qa_A | - |
-| 2 | [Blockz](https://hackenproof.com/audit-programs/blockz-smart-contract-audit-contest) | 1M, 1L | 13 |
-| 1 | [Morpheus](https://code4rena.com/audits/2025-08-morpheus) | qa_B | - |
+| # | Contest | Findings | Rank | X Post |
+|:-:|:--------|:--------:|:----:|:------:|
+| 8 | [Revert Finance](https://cantina.xyz/code/efb6f308-f13b-4110-aff8-0d67181608dd/overview) | 1M, 2L | ⭐ 4 | [🔗](https://x.com/keterka/status/2053072375910986073?s=20) |
+| 7 | [Reliq](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest) | 1H, 1M, 1L | 🥉 3 | [🔗](https://x.com/keterka/status/2009609869611941922?s=20) |
+| 6 | [Rain](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest) | 3C, 1H, 4M, 2L | 5 | [🔗](https://x.com/keterka/status/2003708879713239429?s=20) |
+| 5 | IndexFun | 1M | 15 | |
+| 4 | [OpenEden](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest) | 2H, 1M | 🥉 3 | |
+| 3 | [Covenant](https://code4rena.com/audits/2025-10-covenant) | qa_A | - | |
+| 2 | [Blockz](https://hackenproof.com/audit-programs/blockz-smart-contract-audit-contest) | 1M, 1L | 13 | |
+| 1 | [Morpheus](https://code4rena.com/audits/2025-08-morpheus) | qa_B | - | |
+
+## 🏆 Hacker of the Week (HackenProof)
+
+- [Week 1](https://x.com/HackenProof/status/2000596103599923655?s=20)
+- [Week 2](https://x.com/HackenProof/status/2007382002073501739?s=20)
+- [Week 3](https://x.com/HackenProof/status/2012102537462390891?s=20)
 
 ## 💼 Work Experience
 
 **Smart Contract Security Researcher** – *HackenProof, Code4rena & Sherlock* (July 2025 – Present)
 - Conducted security audits on HackenProof, Sherlock, and Code4rena platforms with multiple submissions
-- Identified 3 critical, 4 high, 8 medium, 4 low, 1 A-grade issue, 1 B-grade issue, and 8 informational findings
+- Identified 3 critical, 4 high, 8 medium, 4 low, 1 A-grade issue, 1 B-grade issue, and 10 informational findings
 
 **LLM-Based Code Analysis Tool Developer** – *Research Project* (September 2025 – Present)
 - Created LLM-powered tool for automated smart contract code analysis
