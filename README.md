@@ -27,8 +27,17 @@
 
 ## 🔍 Audit Contests
 
+### 📈 Total Findings
+
+| 🔴 Critical | 🟠 High | 🟡 Medium | 🟢 Low |
+|:-:|:-:|:-:|:-:|
+| **3** | **4** | **9** | **9** |
+
+Plus 2 A-grade QA awards, 1 B-grade, and 10 informational findings.
+
 | # | Contest | Findings | Rank | X Post |
 |:-:|:--------|:--------:|:----:|:------:|
+| 9 | [Monetrix](https://code4rena.com/audits/2026-04-monetrix) | qa_A 🥉 | 5 | [🔗](https://x.com/keterka/status/2059434905482740185?s=20) |
 | 8 | [Revert Finance](https://cantina.xyz/code/efb6f308-f13b-4110-aff8-0d67181608dd/overview) | 1M, 2L | ⭐ 4 | [🔗](https://x.com/keterka/status/2053072375910986073?s=20) |
 | 7 | [Reliq](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest) | 1H, 1M, 1L | 🥉 3 | [🔗](https://x.com/keterka/status/2009609869611941922?s=20) |
 | 6 | [Rain](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest) | 3C, 1H, 4M, 2L | 5 | [🔗](https://x.com/keterka/status/2003708879713239429?s=20) |
@@ -48,7 +57,7 @@
 
 **Smart Contract Security Researcher** – *HackenProof, Code4rena & Sherlock* (July 2025 – Present)
 - Conducted security audits on HackenProof, Sherlock, and Code4rena platforms with multiple submissions
-- Identified 3 critical, 4 high, 8 medium, 4 low, 1 A-grade issue, 1 B-grade issue, and 10 informational findings
+- Identified 3 critical, 4 high, 9 medium, 9 low, 2 A-grade issues, 1 B-grade issue, and 10 informational findings (including 3rd place QA award on Code4rena Monetrix contest with 3 additional low findings)
 
 **LLM-Based Code Analysis Tool Developer** – *Research Project* (September 2025 – Present)
 - Created LLM-powered tool for automated smart contract code analysis
