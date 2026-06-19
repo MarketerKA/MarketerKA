@@ -1,8 +1,8 @@
 <div align="center">
   
-# Hello👋
+# Hello
 
-### Solidity Researcher 💎
+### Solidity Researcher
 
 <!-- <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -17,47 +17,57 @@
 [![X](https://img.icons8.com/color/36/000000/twitterx--v1.png)](https://x.com/keterka)
 [![Email](https://img.icons8.com/color/36/000000/gmail-new.png)](mailto:advertinno@gmail.com)
 
+[![HackenProof](https://img.shields.io/badge/HackenProof-2EA44E?style=for-the-badge)](https://hackenproof.com/hackers/maketer)
+[![Code4rena](https://img.shields.io/badge/Code4rena-2C2C2C?style=for-the-badge)](https://code4rena.com/@keterka)
+[![Sherlock](https://img.shields.io/badge/Sherlock-4263EB?style=for-the-badge)](https://audits.sherlock.xyz/watson/Marketer7)
+[![Cantina](https://img.shields.io/badge/Cantina-FF5C00?style=for-the-badge)](https://cantina.xyz/u/Marketer7)
+
 </div>
 
-## 📊 About Me
+## About Me
 
-- Smart Contract Security Researcher (HackenProof, Code4rena, Cantina & Sherlock Warden)
-- [Top-60 on HackenProof](https://hackenproof.com/hackers/maketer) (TOP 100 ALL-TIME RANKING)
-- Innopolis University student (final year)
+- Smart contract security researcher
+- [Top-60 on HackenProof](https://hackenproof.com/hackers/maketer) (top-100 all-time)
 
-## 🔍 Audit Contests
+## Audits
 
-### 📈 Total Findings
+### Total Findings
 
 | 🔴 Critical | 🟠 High | 🟡 Medium | 🟢 Low |
 |:-:|:-:|:-:|:-:|
-| **3** | **4** | **9** | **9** |
+| **3** | **5** | **12** | **9** |
 
-Plus 2 A-grade QA awards, 1 B-grade, and 10 informational findings.
+### Public
 
-| # | Contest | Findings | Rank | X Post |
-|:-:|:--------|:--------:|:----:|:------:|
-| 9 | [Monetrix](https://code4rena.com/audits/2026-04-monetrix) | qa_A 🥉 | 5 | [🔗](https://x.com/keterka/status/2059434905482740185?s=20) |
-| 8 | [Revert Finance](https://cantina.xyz/code/efb6f308-f13b-4110-aff8-0d67181608dd/overview) | 1M, 2L | ⭐ 4 | [🔗](https://x.com/keterka/status/2053072375910986073?s=20) |
-| 7 | [Reliq](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest) | 1H, 1M, 1L | 🥉 3 | [🔗](https://x.com/keterka/status/2009609869611941922?s=20) |
-| 6 | [Rain](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest) | 3C, 1H, 4M, 2L | 5 | [🔗](https://x.com/keterka/status/2003708879713239429?s=20) |
-| 5 | IndexFun | 1M | 15 | |
-| 4 | [OpenEden](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest) | 2H, 1M | 🥉 3 | |
-| 3 | [Covenant](https://code4rena.com/audits/2025-10-covenant) | qa_A | - | |
-| 2 | [Blockz](https://hackenproof.com/audit-programs/blockz-smart-contract-audit-contest) | 1M, 1L | 13 | |
-| 1 | [Morpheus](https://code4rena.com/audits/2025-08-morpheus) | qa_B | - | |
+| Audit | Findings | Rank | Link |
+|:------|:--------:|:----:|:----:|
+| [Monetrix](https://code4rena.com/audits/2026-04-monetrix) | qa_A 🥉 | 5 | [🔗](https://x.com/keterka/status/2059434905482740185?s=20) |
+| [Revert Finance](https://cantina.xyz/code/efb6f308-f13b-4110-aff8-0d67181608dd/overview) | 1M, 2L | ⭐ 4 | [🔗](https://x.com/keterka/status/2053072375910986073?s=20) |
+| [Reliq](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest) | 1H, 1M, 1L | 🥉 3 | [🔗](https://x.com/keterka/status/2009609869611941922?s=20) |
+| [Rain](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest) | 3C, 1H, 4M, 2L | 5 | [🔗](https://x.com/keterka/status/2003708879713239429?s=20) |
+| IndexFun | 1M | 15 | |
+| [OpenEden](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest) | 2H, 1M | 🥉 3 | |
+| [Covenant](https://code4rena.com/audits/2025-10-covenant) | qa_A | - | |
+| [Blockz](https://hackenproof.com/audit-programs/blockz-smart-contract-audit-contest) | 1M, 1L | 13 | |
+| [Morpheus](https://code4rena.com/audits/2025-08-morpheus) | qa_B | - | |
 
-## 🏆 Hacker of the Week (HackenProof)
+### Private
+
+| Audit | Findings | Firm | Report | Post |
+|:------|:--------:|:----:|:------:|:----:|
+| Robin | 1H, 3M | Phage Security | [📄](https://github.com/phage-security/audits/blob/main/2026-05-robinMarkets.pdf) | [🔗](https://x.com/0x3b33/status/2062547130762264695?s=20) |
+
+## Hacker of the Week (HackenProof)
 
 - [Week 1](https://x.com/HackenProof/status/2000596103599923655?s=20)
 - [Week 2](https://x.com/HackenProof/status/2007382002073501739?s=20)
 - [Week 3](https://x.com/HackenProof/status/2012102537462390891?s=20)
 
-## 💼 Work Experience
+## Work Experience
 
 **Smart Contract Security Researcher** – *HackenProof, Code4rena & Sherlock* (July 2025 – Present)
 - Conducted security audits on HackenProof, Sherlock, and Code4rena platforms with multiple submissions
-- Identified 3 critical, 4 high, 9 medium, 9 low, 2 A-grade issues, 1 B-grade issue, and 10 informational findings (including 3rd place QA award on Code4rena Monetrix contest with 3 additional low findings)
+- Identified 3 critical, 5 high, 12 medium, 9 low, 2 A-grade issues, 1 B-grade issue, and 10 informational findings (including 3rd place QA award on Code4rena Monetrix contest with 3 additional low findings)
 
 **LLM-Based Code Analysis Tool Developer** – *Research Project* (September 2025 – Present)
 - Created LLM-powered tool for automated smart contract code analysis
@@ -72,7 +82,7 @@ Plus 2 A-grade QA awards, 1 B-grade, and 10 informational findings.
 - Educational course layouts (7 projects)
 - JavaScript and styling
 
-## 🛠️ Tech Stack
+## Tech Stack
 <div align="center">
 
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" alt="Solidity" title="Solidity"/></code>
@@ -80,10 +90,9 @@ Plus 2 A-grade QA awards, 1 B-grade, and 10 informational findings.
 
 </div>
 
-## 🎓 Education
+## Education
 
-**Innopolis University** (2022 – present)  
-Bachelor's degree, Computer Science and Engineering
+**Innopolis University** — B.Sc. Computer Science (2022 – present)
 
 <div align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/MarketerKA?style=flat-square&logo=github&labelColor=black&color=1DA1F2">
@@ -95,7 +104,7 @@ Bachelor's degree, Computer Science and Engineering
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 </div>
 
-## 🌐 Web2 Projects
+## Web2 Projects
 
 | Project | Description | Demo | Code |
 |:------:|:---------|:----:|:---:|
