@@ -1,29 +1,24 @@
-**Smart contract security researcher**
+# Smart Contract Security Researcher
 
-**Top-60 on HackenProof**
-
-**Worked with:**
-
-- [Phage Security](https://phagesecurity.com/)
-- [CODESPECT](https://codespect.net/)
+- 🏆 **Top-60** on HackenProof
+- 🐞 **50+ findings**
+- ⚡ **4× Hacker of the Week** on HackenProof
 
 ---
+
+**Worked with:** [Phage Security](https://phagesecurity.com/) · [CODESPECT](https://codespect.net/)
+
+---
+
+**Audit profiles:** [HackenProof](https://hackenproof.com/hackers/maketer) · [Cantina](https://cantina.xyz/u/Marketer7) · [Code4rena](https://code4rena.com/@keterka)
 
 **X:** [@keterka](https://x.com/keterka)
 
-**Audit profiles:** [HackenProof](https://hackenproof.com/hackers/maketer), [Cantina](https://cantina.xyz/u/Marketer7), [Code4rena](https://code4rena.com/@keterka)
-
 ---
 
-**Request a private audit:** [@makamert](https://t.me/makamert)
-
----
+**Private audit:** [@makamert](https://t.me/makamert)
 
 ## Audits
-
-| Critical | High | Medium | Low |
-|:--------:|:----:|:------:|:---:|
-| 3 | 5 | 13 | 11 |
 
 ### Public
 
@@ -53,10 +48,11 @@
 - [Week 1](https://x.com/HackenProof/status/2000596103599923655?s=20)
 - [Week 2](https://x.com/HackenProof/status/2007382002073501739?s=20)
 - [Week 3](https://x.com/HackenProof/status/2012102537462390891?s=20)
+- [Week 4](https://x.com/HackenProof/status/2078146360591737091?s=20)
 
-## Education
+---
 
-**B.Sc. Computer Science** (2022-2026)
+<sub>B.Sc. Computer Science · 2022–2026</sub>
 
 <div align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/MarketerKA?style=flat-square&logo=github&labelColor=black&color=1DA1F2">
