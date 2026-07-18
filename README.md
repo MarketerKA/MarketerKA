@@ -1,61 +1,52 @@
-<div align="center">
-  
-# Hello
+**Smart contract security researcher**
 
-### Solidity Researcher
+**Top-60 on HackenProof**
 
-<!-- <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p> -->
+**Worked with:**
 
-[![Telegram](https://img.icons8.com/color/36/000000/telegram-app.png)](https://t.me/makamert)
-[![X](https://img.icons8.com/color/36/000000/twitterx--v1.png)](https://x.com/keterka)
-[![Email](https://img.icons8.com/color/36/000000/gmail-new.png)](mailto:advertinno@gmail.com)
+- [Phage Security](https://phagesecurity.com/)
+- [CODESPECT](https://codespect.net/)
 
-[![HackenProof](https://img.shields.io/badge/HackenProof-2EA44E?style=for-the-badge)](https://hackenproof.com/hackers/maketer)
-[![Code4rena](https://img.shields.io/badge/Code4rena-2C2C2C?style=for-the-badge)](https://code4rena.com/@keterka)
-[![Sherlock](https://img.shields.io/badge/Sherlock-4263EB?style=for-the-badge)](https://audits.sherlock.xyz/watson/Marketer7)
-[![Cantina](https://img.shields.io/badge/Cantina-FF5C00?style=for-the-badge)](https://cantina.xyz/u/Marketer7)
+---
 
-</div>
+**X:** [@keterka](https://x.com/keterka)
 
-## About Me
+**Audit profiles:** [HackenProof](https://hackenproof.com/hackers/maketer), [Cantina](https://cantina.xyz/u/Marketer7), [Code4rena](https://code4rena.com/@keterka)
 
-- Smart contract security researcher
-- [Top-60 on HackenProof](https://hackenproof.com/hackers/maketer) (top-100 all-time)
+---
+
+**Request a private audit:** [@makamert](https://t.me/makamert)
+
+---
 
 ## Audits
 
-### Total Findings
-
-| 🔴 Critical | 🟠 High | 🟡 Medium | 🟢 Low |
-|:-:|:-:|:-:|:-:|
-| **3** | **5** | **12** | **9** |
+| Critical | High | Medium | Low |
+|:--------:|:----:|:------:|:---:|
+| 3 | 5 | 13 | 11 |
 
 ### Public
 
-| Audit | Findings | Rank | Link |
-|:------|:--------:|:----:|:----:|
-| [Monetrix](https://code4rena.com/audits/2026-04-monetrix) | qa_A 🥉 | 5 | [🔗](https://x.com/keterka/status/2059434905482740185?s=20) |
-| [Revert Finance](https://cantina.xyz/code/efb6f308-f13b-4110-aff8-0d67181608dd/overview) | 1M, 2L | ⭐ 4 | [🔗](https://x.com/keterka/status/2053072375910986073?s=20) |
-| [Reliq](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest) | 1H, 1M, 1L | 🥉 3 | [🔗](https://x.com/keterka/status/2009609869611941922?s=20) |
-| [Rain](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest) | 3C, 1H, 4M, 2L | 5 | [🔗](https://x.com/keterka/status/2003708879713239429?s=20) |
-| IndexFun | 1M | 15 | |
-| [OpenEden](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest) | 2H, 1M | 🥉 3 | |
-| [Covenant](https://code4rena.com/audits/2025-10-covenant) | qa_A | - | |
-| [Blockz](https://hackenproof.com/audit-programs/blockz-smart-contract-audit-contest) | 1M, 1L | 13 | |
-| [Morpheus](https://code4rena.com/audits/2025-08-morpheus) | qa_B | - | |
+| # | Audit | Findings | Rank | X Post |
+|:-:|:------|:--------:|:----:|:------:|
+| 9 | [Monetrix](https://code4rena.com/audits/2026-04-monetrix) | qa_A 🥉 | 5 | [🔗](https://x.com/keterka/status/2059434905482740185?s=20) |
+| 8 | [Revert Finance](https://cantina.xyz/code/efb6f308-f13b-4110-aff8-0d67181608dd/overview) | 1M, 2L | ⭐ 4 | [🔗](https://x.com/keterka/status/2053072375910986073?s=20) |
+| 7 | [Reliq](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest) | 1H, 1M, 1L | 🥉 3 | [🔗](https://x.com/keterka/status/2009609869611941922?s=20) |
+| 6 | [Rain](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest) | 3C, 1H, 4M, 2L | 5 | [🔗](https://x.com/keterka/status/2003708879713239429?s=20) |
+| 5 | [OpenEden](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest) | 2H, 1M | 🥉 3 | [🔗](https://x.com/keterka/status/1982205277895012839?s=20) |
+| 4 | IndexFun | 1M | 15 | [🔗](https://x.com/keterka/status/1990937209604895084?s=20) |
+| 3 | [Blockz](https://hackenproof.com/audit-programs/blockz-smart-contract-audit-contest) | 1M, 1L | 13 | [🔗](https://x.com/keterka/status/1982205277895012839?s=20) |
+| 2 | [Covenant](https://code4rena.com/audits/2025-10-covenant) | qa_A | - | |
+| 1 | [Morpheus](https://code4rena.com/audits/2025-08-morpheus) | qa_B | - | |
 
 ### Private
 
-| Audit | Findings | Firm | Report | Post |
-|:------|:--------:|:----:|:------:|:----:|
-| Robin | 1H, 3M | Phage Security | [📄](https://github.com/phage-security/audits/blob/main/2026-05-robinMarkets.pdf) | [🔗](https://x.com/0x3b33/status/2062547130762264695?s=20) |
+| # | Audit | Findings | Firm | Report | Post |
+|:-:|:------|:--------:|:----:|:------:|:----:|
+| 4 | perpGame | TBA | [Phage Security](https://phagesecurity.com/) | TBA | TBA |
+| 3 | ChainLabCTU's ERC-6909 | 1M, 2L | [SpecSiege](https://specsiege.codespect.net/) | TBA | [🔗](https://x.com/keterka/status/2072157936567087372?s=20) |
+| 2 | Covalence | TBA | [Phage Security](https://phagesecurity.com/) | TBA | TBA |
+| 1 | Robin | 1H, 3M | [Phage Security](https://phagesecurity.com/) | [📄](https://github.com/phage-security/audits/blob/main/2026-05-robinMarkets.pdf) | [🔗](https://x.com/0x3b33/status/2062547130762264695?s=20) |
 
 ## Hacker of the Week (HackenProof)
 
@@ -63,36 +54,9 @@
 - [Week 2](https://x.com/HackenProof/status/2007382002073501739?s=20)
 - [Week 3](https://x.com/HackenProof/status/2012102537462390891?s=20)
 
-## Work Experience
-
-**Smart Contract Security Researcher** – *HackenProof, Code4rena & Sherlock* (July 2025 – Present)
-- Conducted security audits on HackenProof, Sherlock, and Code4rena platforms with multiple submissions
-- Identified 3 critical, 5 high, 12 medium, 9 low, 2 A-grade issues, 1 B-grade issue, and 10 informational findings (including 3rd place QA award on Code4rena Monetrix contest with 3 additional low findings)
-
-**LLM-Based Code Analysis Tool Developer** – *Research Project* (September 2025 – Present)
-- Created LLM-powered tool for automated smart contract code analysis
-- Research on integrating large language models into security auditing workflows
-
-**React Developer** – *Apusher* (October 2024 – April 2025, recommendation letter)
-- React component development
-- Backend integration via Redux
-- Styling with SCSS
-
-**Frontend Developer** – *Factor Sales* (October 2023 – August 2024)
-- Educational course layouts (7 projects)
-- JavaScript and styling
-
-## Tech Stack
-<div align="center">
-
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" alt="Solidity" title="Solidity"/></code>
-[![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)[![Redux](https://img.icons8.com/color/48/000000/redux.png)](https://redux.js.org/)[![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/)[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)[![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)[![Sass](https://img.icons8.com/color/48/000000/sass.png)](https://sass-lang.com/)[![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
-
-</div>
-
 ## Education
 
-**Innopolis University** — B.Sc. Computer Science (2022 – present)
+**B.Sc. Computer Science** (2022-2026)
 
 <div align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/MarketerKA?style=flat-square&logo=github&labelColor=black&color=1DA1F2">
@@ -103,15 +67,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 </div>
-
-## Web2 Projects
-
-| Project | Description | Demo | Code |
-|:------:|:---------|:----:|:---:|
-| **🏗️ Housing Services Tracker** | Hackathon app for housing workers and managers (tracking garbage truck operations) | [Demo](https://marketerka.github.io/front-end-tula-hackaton/) | [GitHub](https://github.com/MarketerKA/front-end-tula-hackaton) |
-| **🛍️ ArteWear** | E-commerce platform with admin panel and shopping cart (React + TypeScript, role: frontend team lead) | [Demo](https://artewear.ru/) | [GitHub](https://github.com/MarketerKA/artewear) |
-| **🤖 AI AM AM BUILDER** | MTS hackathon - JSON generation based on user requests (backend disabled) | [Demo](https://ai-am-am-builder.vercel.app/) | [GitHub](https://github.com/MarketerKA/AI_AM_AM_BUILDER) |
-| **🎓 LAN-frontend** | Student application (diploma project) | [Demo](https://capstoun.vercel.app/) | [GitHub](https://github.com/IU-Capstone-Project-2024/LAN-frontend) |
-| **📝 To-Do List** | Task planner | [Demo](https://MarketerKA.github.io/to-do-list/) | [GitHub](https://github.com/MarketerKA/to-do-list) |
-| **🎰 Slot Machine** | Interactive slot machine | [Demo](https://marketerka.github.io/slotiki/) | [GitHub](https://github.com/MarketerKA/slotiki) |
-| **📎 shorterApi** | URL shortening API with web interface | - | [GitHub](https://github.com/MarketerKA/shorterApi) |
